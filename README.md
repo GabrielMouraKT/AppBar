@@ -1,4 +1,4 @@
-<h1>AppBar</h1> <br>
-![image](https://github.com/GabrielMouraKT/AppBar/assets/69040085/6882d1a3-1693-476d-b708-c2b3849c3f3c)
+<h1>AppBar</h1> ![image](https://github.com/GabrielMouraKT/AppBar/assets/69040085/13c9d684-ba3f-4521-a394-7c0d086fd1d7)
+
 
 
