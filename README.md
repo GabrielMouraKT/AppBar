@@ -1,6 +1,3 @@
 <h1>Widgets</h1>
 <h3>AppBar</h3><br> 
-*
-![image](https://github.com/GabrielMouraKT/FlutterSpace/assets/69040085/ae2a4315-a9b5-4313-acb7-6cdf21c5d1a2)
-
-
+![image](https://github.com/GabrielMouraKT/FlutterSpace/assets/69040085/54147be7-07f1-4aee-b006-813da5405b5e)
